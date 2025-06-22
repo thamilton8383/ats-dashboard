@@ -1,0 +1,20 @@
+[
+  {
+    "game_id": "CFB_20250914_OSU@MICH",
+    "kickoff_time": "2025-09-14T18:30:00Z",
+    "wind_mph": 18.4,
+    "rain_prob": 87,
+    "temperature_f": 42,
+    "weather_alert": "High Wind + Rain Risk",
+    "risk_score": 7.6
+  },
+  {
+    "game_id": "CFB_20250914_LSU@TENN",
+    "kickoff_time": "2025-09-14T20:00:00Z",
+    "wind_mph": 8.1,
+    "rain_prob": 10,
+    "temperature_f": 78,
+    "weather_alert": "None",
+    "risk_score": 1.2
+  }
+]
